@@ -258,6 +258,14 @@
       "method": "StaticPairList"
     }
   ],
+  "telegram": {
+    "enabled": true,
+    // "token": "6615952596:AAG9A7JiOmmqeSAi5k5m0WG6iIS0jL0cxUk",
+    // "chat_id": "5920069381"
+
+    "token": "6607188237:AAHOgKANTY8-mSs51jpGejl-x2NnqMHh0KU",
+    "chat_id": "5920069381"
+  },
   "_pairlists": [
     {
       "method": "VolumePairList",
