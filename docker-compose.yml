@@ -24,4 +24,4 @@ services:
       trade
       --config /freqtrade/user_data/mgm-config.json
       --config /freqtrade/user_data/mgm-config-private.json
-      --strategy MasterMoniGoManiHyperStrategy
+      --strategy MoniGoManiHyperStrategy
